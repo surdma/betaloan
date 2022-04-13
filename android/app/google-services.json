@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838144294788",
+    "project_id": "betaloan-2aae2",
+    "storage_bucket": "betaloan-2aae2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838144294788:android:8b6c02e484ee6c2aab67d1",
+        "android_client_info": {
+          "package_name": "com.odtro.beta_loan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838144294788-kf5mml46qf2r419v9s54pk2hlesfl73b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRSI9WP5wtusFAVCySktQ-KKQrk_6Ndsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838144294788-kf5mml46qf2r419v9s54pk2hlesfl73b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
