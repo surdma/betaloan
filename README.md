@@ -1,16 +1,16 @@
-# beta_loan
+# BetaLloan
 
 Get a loan with no stress and manage your funds anywhere everywhere.
 
-## Getting Started
+Betaloan is simple-to-use, user-friendly, with sleek UI and transparent interactions. It provide a seamless journey borrowers.
+Betaloan Features include but not limited to: 
 
-This project is a starting point for a Flutter application.
+1. Registration/login. Users register and log into their account via a phone number and also activate there account using their bank verification details. 
+ 
+2. Loan management. Users can view the available loans, their Equated Monthly Installments (EMIs), the Goods and Services Tax (GST) value, the platform processing fees, etc. The borrowers should also be able to create their loan applications, select the estimated payback period.
 
-A few resources to get you started if this is your first Flutter project:
+3. Payment and billing. The betaloan app store a history of all payments to provide transparency into the lending process.
+ 
+4. Transactions and EMIs. To pay back the loan, a borrower must pay EMIs that cover both interest and principal. Once all the EMIs are paid and the loan is returned in full, these transactions are be saved for the convenience of audit and further reference. 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+5. Transfers and withdrawals. BetaLoan provide options to withdraw funds to a bank account or directly to the user’s banking card.
