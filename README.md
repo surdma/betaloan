@@ -1,5 +1,7 @@
 # BetaLloan
 
+![alt text](https://github.com/surdma/betaloan/blob/master/design/alphaloan_png/splash.png?raw=true)
+
 Get a loan with no stress and manage your funds anywhere everywhere.
 
 Betaloan is simple-to-use, user-friendly, with sleek UI and transparent interactions. It provide a seamless journey borrowers.
